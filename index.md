@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Sentinel Station 0.1
+A unitystation HRP server
 
-You can use the [editor on GitHub](https://github.com/hecksadecimal/sentinelstation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ruleset based heavily on aurorastation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### General game server rules
+0. **Admin discression.** The Host and Moderators may enforce these rules at their discression, and may also choose to overlook particular instances of rulebreaking if it results in a more interesting and fun round. 
+1. **Don't be a dick.** We're all here to have fun. Don't ruin the game for everyone else, and use common sense. This includes anything from attacking other people, starting arguments over nothing, etcetera. Note that this rule applies primarily to OOC, ADMIN CHAT, and DEADCHAT.
+2. **Speak english.** English is the only language permitted for use in the game.
+3. **No hatespeech or sexual topics.** You may not run around with your character proclaiming that the gays need to be burned, nor are you allowed to ERP in the dorms, or anywhere else. Such topics are also to be kept out of OOC channels.
+4. **No IC in OOC.** Avoid discussing events of the current round in OOC. Exceptions might apply for minor, funny events, but use common sense. Note that IC in OOC is permitted after the transfer/emergency shuttle has left the station.
+5. **No OOC in IC.** You are expected to remain in character at all times. Netspeak and smileys are prohibited in IC verbal communication. If you need to talk OOCly to someone direcly nearby you, surround your text with ((parenthesis)).
+6. **No powergaming.** Roleplay takes precedence over objectives - do not engage in behavior which would be unrealistic for your character in an attempt to win the round. For example: stealing weaponry without any IC reason for them. (Building something ‘pre-emptively’ is not a valid IC reason.)
+7. **No metagaming.** This could mean using any knowledge external to your character (knowledge of antag types/items as a non-traitor, or knowledge of who is the traitor from OOC information) to give yourself an unfair advantage. For example, having your character know that it's a round of Cargonia when you notice the 'encrypted report'.
+8. **No end of round grief.** The round ending is not a license to begin attacking your fellow crew mates. Please continue to roleplay as you normally would.
 
-### Markdown
+### Character rules
+1. **Characters must be believable, and well-rounded.** No insane or psychotic characters. No Mary Sues. (Over the top characters, characters who know too much, have no weaknesses, etcetera.)
+2. **Characters must be named following a Firstname Lastname model.** (e.g. "John Smith"). No honorifics, nicknames or middle names (with exceptions for compound names such as Van/Von/Bin X). Think of your in-game name as the name printed on your work ID. In general, avoid reference/famous/joke names, please.
+3. **Cross-departmental knowledge is possible, however, it should be done in a believable fashion.** Things to take into consideration: the amount of time it would take to learn what is required, the amount of time and effort it would take to gain the qualifications/certifications required, and most importantly, the closeness of the different sets of knowledge. For example: a roboticist knowing electrical engineering is believable, as the two fields overlap to a large degree. A security officer moonlighting as a PhD xenobiologist is not believable, and as such, the server administration may ask the character to be reworked.
+4. **Criminal characters are allowed, if they are done in a believable fashion whilst non-antagonists.** For characters whose criminal background isn’t known to local authorities, this would mean trying to keep their criminal involvement low-key. Try to find subtle ways to further your characters goals when not an antagonist, and to avoid the ire of security and the duty officers through blatant actions (such as a large scale breakin, murder, etcetera). For characters whose criminal background is known to local authorities (they have been arrested for crimes in the past), it is recommended that you look for ways to incorporate the punishment given into the character’s roleplay and posting/activity on the station. A person convicted of murder, for example, would probably not even be hired, a character with a background of theft convictions would probably not be entrusted with higher positions, and so on.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Roleplay rules
+1. **Do not break the atmosphere of the game.** Also known as "breaking immersion". For example, using slang terms for antagonists IC "traitor", "cargonia", "syndie", etc. Use of OOC game slang IC, "robust", "shitcurity", "emag", "esword".
+2. **Attempt to maintain a basic level of literacy when speaking in-character.** Proper punctuation and capitalization is also heavily recommended. (Exceptions made for written messages IC, such as on paper).
+3. **Restrict yourself to your character's knowledge.** You, as a player, might have the knowledge of how to hack airlocks, but your average doctor likely doesn't.
+4. **Keep your character's goals in mind.** For example, as security, during a traitor round, your goal is not to catch traitors, but ensure the safety of the station and provide assistance as needed.
+5. **Avoid pain.** A sane, well-rounded character would not engage in actions that are overly painful, or put themselves in harm's way without consideration (e.g. going EVA without a suit, stabbing themselves repeatedly, or continue to run at someone after being shot multiple times.) Suicide is generally a no, unless you have believable reason for it and do it in a realistic way.
+6. **Ask questions/ask for help** - if you wish to learn a new job, join as a character who is an intern/trainee, and ask to learn the job IC. If your character does not know how to perform a job, don't go and do it yourself anyway! Instead, request the assistance of a character who does.
+7. **Take into account your character's comfort.** Wearing hardsuits or internals for a prolonged period of time would be very tiring or uncomfortable. Do not wear these items without good reason.
+8. **Try to perform your job to a satisfactory standard, especially in positions of power (security, head roles.)** Minor failures at doing so will result in IC consequences, but constant, repeated failures without sense or reason can result in your whitelist status being revoked. Note that you are not expected to be a role model employee, but are asked to not use your job to grief and to also have an OOC understanding of what’s going on.
+9. **ERP, also known as Erotic RolePlay, is not allowed on the server.** While displays of romantic affection and romantic scenes are acceptable, scenes of a clearly sexual intent will be broken up. (Again, use common sense for this. Sexual tension up to a point is acceptable - sexual acts in themselves are not.)
 
-```markdown
-Syntax highlighted code block
+### Conflict rules
+1. **Conflict is acceptable, even if you are not an antag, but it needs to be believable, and meet roleplay standards.** The average Joe will not simply decide to blow up their workplace one day. Keep in mind, the more drastic the action, the more motivated your character has to be to commit to it, and the consequences it brings. Unless you’re an antagonist, this motivation has to be developed through roleplay on the server: backstory cannot legitimize drastic things, such as trying to assault security staff because of a bad childhood, for example. It is also very much encouraged that you roleplay out the consequences to such conflict where possible.
+2. **Only escalate conflict in a realistic manner.** Some characters might overreact, but you would not realistically go berserk or attempt to kill someone if they stole your prized pen, for instance. Again, your character must be motivated enough to commit to more drastic action, as they undertake it.
+3. **Killing in self-defense in NOT preferred.** If possible, always try to flee, or disable your opponent. If your character does commit a murder in a canon setting, please roleplay out the effects it would have on your character as well.
+4. **All events of conflict will be considered canon unless otherwise agreed upon by both parties or spurred by a round antagonist-related action.** Moderator involvement may result in a specific conflict being made canon regardless of player agreement, as seen fit. This still does not exempt you from rules on metagaming - your character does not acquire knowledge of syndicate items, xenos, etc. simply because they have interacted with them in previous rounds.
+5. **Antagonist involvement can be incorporated (does not have to be, however) into a character’s canon, as long as the the antagonist’s names and actions are muddled to be believable, and to fall in line with the rules about powergaming.** Another condition is that you carry over any effects this would have in your characters, and manage them in a believable fashion. (Such as mental trauma, physical injuries, etcetera.) Do not use this as an excuse to develop an unrealistic character: keep in mind that traumatic events, such as being involved in firefights and high stress situations, will have a tangible effect on your character.
+6. **Character deaths and antagonist actions are generally assumed to be non-canon,** though this can be worked around if done sensibly.
+7. **Metagrudging is prohibited.** Metagrudging is whenever your OOC opinions of a player or their character negatively affect your IC interactions with that character. Basing your IC interactions with a character on events rendered non-canon is also considered metagrudging.
+8. **Taking IC issues into OOC chat,** specially if because one party was not happy with the outcome, in an unconstructive manner is rude, and not done in good spirit.
+9. **Generally, avoid playing hero.** There are certain opportunities every character can seize to overthrow an antagonist, but going rambo on syndicate ops as a frail, unarmed medical doctor constitutes a failure to roleplay and will likely end with you getting shot. Also, if you are unarmed, and being held at gunpoint, it is generally expected for you to comply with your captor, or risk suffering the consequences. Specifically concerning melee combat: knowing advanced close quarters combat moves requires legitimate training, having it as a hobby won't fly.
 
-# Header 1
-## Header 2
-### Header 3
+### Antagonist rules
+1. **Being an antagonist does not exempt you from any server rules.** Being an antagonist is meant to give you easier access to character motivation with which to generate roleplay, and access to certain tools to assist with that as well.
+2. **The primary goal of antangonists is to drive a story and generate interaction.** Be creative when coming up with objectives, and try to do things which will be fun for others, not only yourself. Do not resort to the bare minimums of generating a story through mechanical means, either. This means: no unmotivated/not roleplayed out mass murders, etcetera.
+3. **Only resort to killing if it makes sense or drives a story.** Randomly killing someone because you’re a traitor will get you removed right quick. This also means that murder for the sake of murder is punishable. However, in certain situations, murder can serve as a tool, if none other applicable. If you’re uncertain, ask for guidance.
+4. **No ganking.** While antags will sometimes kill, it is expected for you to provide interesting roleplay to your targets first, if your goal is assassination. This does not mean that you need to monologue your opponent before killing them: roleplay leading up to a murder can take place over the course of the entire round, for example, leaving the murder scene itself to be “wordless”. Collateral damage is acceptable within reason, but this means you must use common sense, and avoid creating scenarios with a lot of potential for collateral (shuttlebombing, plasmafires in high-traffic areas, etc.)
+5. **SSD/AFK characters are off-limits.** Do not kill, maim, or steal from a character who is SSD. If a character goes SSD mid-roleplay, give them some time to rejoin before continuing, if applicable. If they do not come back, use judgement as to whether it is reasonable (and fair) to continue roleplay without them or not. It is acceptable to rob from SSDs if something on their person provides an item that is immediately vital to your character (helps keep the character alive). As necessary, you can ask admins for guidance.
+6. **The station’s primary power source and atmospherics systems are generally off-limits in terms of catastrophic sabotage,** due to the impact they can have on the round. If you think you have a really good reason to mess with either, contact an admin first to get clearance.
+7. **Recalling the shuttle is not allowed as antag unless you get permission from staff first.**
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hecksadecimal/sentinelstation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
